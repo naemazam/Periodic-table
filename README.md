@@ -7,6 +7,8 @@
 ## Simple Knowledge
 
 The periodic table, also known as the periodic table of chemical elements, is a tabular display of the chemical elements. It is widely used in chemistry, physics, and other sciences, and is generally seen as an icon of chemistry.
+![](https://www.philipharris.co.uk/media/1924/periodic-table-header-v2-min.png?anchor=center&mode=crop&width=1110&rnd=131931602780000000&quality=75)
+
 ## Run Locally
 
 Clone the project
